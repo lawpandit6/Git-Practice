@@ -7,8 +7,4 @@ class StringPrint {
 		
 	}
 
-	public void m1(){
-
-	}
-
 }
